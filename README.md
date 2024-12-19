@@ -6,7 +6,7 @@ FastEat is a dynamic and responsive food recipe application built with React.js.
 
 Here is a preview of the FastEat Recipe App:
 
-- ![Screenshot (22)](![Uploading Screenshot (23).png…]()
+- !Screenshot ![Uploading Screenshot (23).png…]()
 
 
 ## Features
